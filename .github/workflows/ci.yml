@@ -21,7 +21,7 @@ jobs:
           java-version: 17
           cache: gradle
 
-      - uses: gradle/actions/setup-gradle@v4
+      - uses: gradle/actions/setup-gradle@v6
 
       # Keeps CI working even if the file mode was not committed as executable.
       - name: Make gradlew executable
