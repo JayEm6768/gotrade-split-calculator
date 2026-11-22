@@ -1,0 +1,8 @@
+<resources>
+    <color name="window_background">#F3F5F8</color>
+    <color name="ic_launcher_background">#33D49D</color>
+    <color name="widget_preview_surface">#FFFFFF</color>
+    <color name="widget_preview_text">#202022</color>
+    <color name="widget_preview_muted">#86898D</color>
+    <color name="widget_preview_amount">#29AA7E</color>
+</resources>

@@ -1,0 +1,18 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+*.jks
+*.keystore
+.idea/
+keystore.properties
+dist/
+*.apk
+
+# Local assistant config
+CLAUDE.md
+.claude/
+
+*.iml
+.DS_Store
+captures/

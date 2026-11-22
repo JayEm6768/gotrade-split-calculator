@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Split Calculator</string>
+    <string name="widget_name">Split Calculator</string>
+    <string name="widget_description">Your saved split and order amounts at a glance.</string>
+    <string name="widget_preview_split" translatable="false">VOO 45%  SMH 25%  SCHD 15%  IBIT 15%</string>
+    <string name="widget_preview_order_one" translatable="false">VOO   $8.89</string>
+    <string name="widget_preview_order_two" translatable="false">SMH   $4.89</string>
+</resources>

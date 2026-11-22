@@ -1,0 +1,6 @@
+<resources>
+    <color name="window_background">#03120D</color>
+    <color name="widget_preview_surface">#082C1F</color>
+    <color name="widget_preview_text">#EAF2EE</color>
+    <color name="widget_preview_amount">#33D49D</color>
+</resources>
